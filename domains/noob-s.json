@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "newtoallofthis123",
+    "email": "noobscience123@gmail.com",
+    "twitter": "noobscience1",
+    "discord": "noobscience#0820"
+  },
+  "description": "I would use the above domain for my website to link it to my github pages link",
+  "repo": "https://github.com/newtoallofthis123/newtoallofthis123.github.io/",
+  "record": {
+    "CNAME": "newtoallofthis123.github.io"
+  }
+}
